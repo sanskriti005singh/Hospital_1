@@ -222,3 +222,9 @@ This section describes the important columns from each dataset.
 - **Transactions**: A few high-cost cases inflate mean costs.  
 
 ---
+![Patients Length of Stay](charts/Patients_length_of_stay.png)
+![Supply Chain Ordered Quantity](charts/supply_chain_ordered_quantity.png)
+![Analytics Total Spending](charts/Analytics_total_spending.png)
+![Hospital Bed Capacity](charts/Hospital_bed_capacity.png)
+![Inventory Current Stock](charts/Inventory_current_stock.png)
+![Transactions Total Cost](charts/Transactions_total_cost.png)
