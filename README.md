@@ -133,24 +133,18 @@ This section describes the important columns from each dataset.
 ---
 
 ## 📊 Plots
-
 ### Patients
-![Patients Length of Stay](../charts/Patients_length_of_stay.png)
-
+![Patients Length of Stay](charts/Patients_length_of_stay.png)
 ### Supply Chain
-![Supply Chain Ordered Quantity](../charts/Supply_Chain_ordered_quantity.png)
-
+![Supply Chain Ordered Quantity](charts/supply_chain_ordered_quantity.png)
 ### Analytics
-![Analytics Total Spending](../charts/Analytics_total_spending.png)
-
+![Analytics Total Spending](charts/Analytics_total_spending.png)
 ### Hospital
-![Hospital Bed Capacity](../charts/Hospital_bed_capacity.png)
-
+![Hospital Bed Capacity](charts/Hospital_bed_capacity.png)
 ### Inventory
-![Inventory Current Stock](../charts/Inventory_current_stock.png)
-
+![Inventory Current Stock](charts/Inventory_current_stock.png)
 ### Transactions
-![Transactions Total Cost](../charts/Transactions_total_cost.png)
+![Transactions Total Cost](charts/Transactions_total_cost.png)
 
 ---
 
@@ -212,12 +206,7 @@ This section describes the important columns from each dataset.
 - Saved in the `charts/` folder.  
 
 ---
-![Patients Length of Stay](charts/Patients_length_of_stay.png)
-![Supply Chain Ordered Quantity](charts/supply_chain_ordered_quantity.png)
-![Analytics Total Spending](charts/Analytics_total_spending.png)
-![Hospital Bed Capacity](charts/Hospital_bed_capacity.png)
-![Inventory Current Stock](charts/Inventory_current_stock.png)
-![Transactions Total Cost](charts/Transactions_total_cost.png)
+
 ## ✅ Key EDA Insights
 - **Patients**: Short stays dominate; a few very long stays skew averages.  
 - **Supply Chain**: Suppliers with very high unit prices raise costs.  
