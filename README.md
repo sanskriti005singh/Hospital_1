@@ -150,7 +150,8 @@ This section describes the important columns from each dataset.
 
 # 🔎 Exploratory Data Analysis (EDA) & Data Preprocessing  
 
-![Analysis](images\mastering-exploratory-data-analysis.png)
+<img width="800" height="420" alt="image" src="https://github.com/user-attachments/assets/db148e5a-c5d9-47df-8151-73191e534567" />
+
 
 ---
 
