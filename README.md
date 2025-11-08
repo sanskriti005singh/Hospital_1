@@ -137,6 +137,7 @@ This section describes the important columns from each dataset.
 ![Patients Length of Stay](charts/Patients_length_of_stay.png)
 ### Supply Chain
 <img width="1090" height="390" alt="image" src="https://github.com/user-attachments/assets/5c279a24-31f7-4e54-9f4f-9c5cdf4296f0" />
+
 ### Analytics
 ![Analytics Total Spending](charts/Analytics_total_spending.png)
 ### Hospital
