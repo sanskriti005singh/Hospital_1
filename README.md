@@ -1,4 +1,4 @@
-﻿# 📊 Hospital Analytics Dataset 
+﻿# 📊 Hospital Analytics
 
 ![Analysis](/images/252903590-f6d176bd-9008-492b-8117-be4d21b0177a.png)
 
